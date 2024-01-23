@@ -1,0 +1,11 @@
+<svg width="1920" height="100" viewBox="0 0 1920 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="blue_wave_bottom" clip-path="url(#clip0_0:3)">
+<path id="waveBack" d="M840.5 59C623.091 95.5735 155.5 88.8334 0 50.5V2.28882e-05H1920V75C1616.5 19.8334 1108 14 840.5 59Z" fill="#97D6FF"/>
+<path id="waveFront" d="M941.5 52C1463 115 1679 100 1920 100V3.8147e-05H0V100C319.5 19.5001 446.918 -7.74809 941.5 52Z" fill="#0E9FFF"/>
+</g>
+<defs>
+<clipPath id="clip0_0:3">
+<rect width="1920" height="100" fill="white" transform="translate(1920 100) rotate(180)"/>
+</clipPath>
+</defs>
+</svg>
